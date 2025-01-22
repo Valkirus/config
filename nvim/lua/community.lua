@@ -10,4 +10,5 @@ return {
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.python" },
+  { import = "astrocommunity.pack.cpp" },
 }
